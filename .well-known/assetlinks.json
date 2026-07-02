@@ -1,0 +1,16 @@
+[{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ge.demo.schoolapp",
+    "sha256_cert_fingerprints": ["PASTE:YOUR:SHA256:HERE"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ge.demo.mbank",
+    "sha256_cert_fingerprints": ["PASTE:YOUR:SHA256:HERE"]
+  }
+}]
