@@ -3,7 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "ge.demo.schoolapp",
-    "sha256_cert_fingerprints": ["PASTE:YOUR:SHA256:HERE"]
+    "sha256_cert_fingerprints": ["CE:BB:35:1F:7F:17:58:D4:6C:D3:EE:BF:EE:27:A5:95:25:B2:33:9F:1B:8B:8E:62:39:E4:75:30:93:BF:65:63"]
   }
 },
 {
@@ -11,6 +11,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "ge.demo.mbank",
-    "sha256_cert_fingerprints": ["PASTE:YOUR:SHA256:HERE"]
+    "sha256_cert_fingerprints": ["CE:BB:35:1F:7F:17:58:D4:6C:D3:EE:BF:EE:27:A5:95:25:B2:33:9F:1B:8B:8E:62:39:E4:75:30:93:BF:65:63"]
   }
 }]
